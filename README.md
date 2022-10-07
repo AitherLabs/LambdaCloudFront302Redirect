@@ -1,0 +1,1 @@
+# LambdaCloudFront302Redirect
